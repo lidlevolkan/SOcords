@@ -1,2 +1,2 @@
 # SOCords
-Kordinattan ID, IDden kordinat bulmanıza yarayan program.
+SonOyuncu Creative'de; Kordinattan ID, IDden kordinat bulmanıza yarayan program.
